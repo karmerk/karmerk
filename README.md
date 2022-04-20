@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+Hi, i'm Karsten, a passionate software developer with a strong focus on dotnet. 
+I use GitHub both privately and professionally.
+
+I have some repositories **fun-with-x**, x being something i have been playing with, or just a concept i have been trying out.
+
+My goal is to continue to add **fun-with-** style repositories and continue to explore different concepts, exciting stuff, new ideas and most importantly **to have fun!**
+
 
 <!--
 **karmerk/karmerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
